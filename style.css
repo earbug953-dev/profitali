@@ -718,7 +718,7 @@ nav ul li a:hover {
 
 .hero img {
 
-    max-width: 400px;
+    max-width: 200px;
 }
 
 .aboutme {
@@ -738,7 +738,7 @@ nav ul li a:hover {
     height: 105px;
     transition: 0.3s;
 }
-
+}
 
 
 
@@ -757,8 +757,9 @@ nav ul li a:hover {
     text-transform: uppercase;
 
 }
-}
+
 
 
     
 }
+
